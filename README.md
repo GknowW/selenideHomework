@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ng5j432w0wu9o5mf?svg=true)](https://ci.appveyor.com/project/GknowW/selenidehomework)
